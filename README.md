@@ -1,3 +1,7 @@
+## Please Note
+
+This project requires back end which is not included - this is simply the front end for the market place - 
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
